@@ -1,6 +1,6 @@
 # football_news
 
-https://app.bitrise.io/app/133b527f-b4d6-497b-a7f5-6cb87e6c0da0/status.svg?token=CRPJi8yggW9ObSJl9cSwyw&branch=master
+[![Build Status](https://app.bitrise.io/app/133b527f-b4d6-497b-a7f5-6cb87e6c0da0/status.svg?token=CRPJi8yggW9ObSJl9cSwyw&branch=master)](https://app.bitrise.io/app/133b527f-b4d6-497b-a7f5-6cb87e6c0da0)
 
 ## Download
 
